@@ -22,5 +22,7 @@ Some PowerBI skills like DAX, Modelling and filters
 4. I used the clustered column chart to visualize the product with the most profit.
 5. From the Line chart that was visualized, it can be deducted that the sales revenue of the Store was at its peak in January 2013.
 
+![](https://github.com/Chiomamorah/SuperStore-Visualization/blob/main/Screenshot%20(45).png)
+
 
  
